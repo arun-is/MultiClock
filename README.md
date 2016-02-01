@@ -16,13 +16,13 @@ Please read the LICENSE file in this repository before modifying or distributing
 2. App should be aesthetically pleasing.
 
 # Existing Apps & Examples
-###Chrome Extensions
+##Chrome Extensions
 
-###Websites
+##Websites
 
-###Native Apps (Mac OS X)
+##Native Apps (Mac OS X)
 
-###Mockups & Designs
+##Mockups & Designs
 
 
 
