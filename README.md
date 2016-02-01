@@ -18,11 +18,11 @@ Please read the LICENSE file in this repository before modifying or distributing
 # Existing Apps & Examples
 ##Chrome Extensions
 
-##Websites
+###Websites
 
-##Native Apps (Mac OS X)
+###Native Apps (Mac OS X)
 
-##Mockups & Designs
+###Mockups & Designs
 
 
 
