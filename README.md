@@ -1,7 +1,3 @@
-# Table of Contents
-
-[TOC]
-
 # Introduction
 This is a Chrome extension that shows multiple clocks in chrome new tabs. It is useful for remote workers and collaborating across timezones.
 
