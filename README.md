@@ -36,7 +36,7 @@ Items in this list are organized like below
 ##Native Apps (Mac OS X)
 1. [The Clock - The Best World Clock](https://itunes.apple.com/us/app/the-clock-the-best-world-clock/id488764545) menubar popover with calendar and list of places and clocks. Connects to Calendar app. *by default doesn't show current location in list, unintuitive method of adding locations (1. click gear icon. 2. click "Show Add World Clock" 3. Search for and add city*
 2. [Clocks](https://itunes.apple.com/us/app/clocks/id414554506) Menubar popover with list of locations and times and a slider at the bottom for adjusting time *difficult to read*
-3. [World Clock](https://itunes.apple.com/us/app/world-clock/id858446756) [widget](https://itunes.apple.com/app/world-clock-widget/id960527401) Map (with daylight terminus), analog clocks and slider for adjusting time *By far the best because of ease use (drag for changing time) and for aesthetics. widget allows quickly comparing times with slider. Difficult to understand, prominent colors (clocks turn white in dusk and then green in day. doesn't make sense). current time is shown at center at bottom with a timeline of hours, but the times are aligned with the center and not the map. clocks don't match up with locations on map*
+3. [World Clock](https://itunes.apple.com/us/app/world-clock/id858446756) [widget](https://itunes.apple.com/app/world-clock-widget/id960527401) Map (with daylight terminus), analog clocks and slider for adjusting time *By far the best because of ease use (drag for changing time) and for aesthetics. widget allows quickly comparing times with slider. Difficult to understand, prominent colors (clocks turn white in dusk and then green in day. doesn't make sense). current time is shown at center at bottom with a timeline of hours, but the times are aligned with the center and not the map. clocks don't match up with locations on map* ![World Clock](examples/world_clock.png "World Clock")
 4. [Living Earth - Desktop Weather & World Clock](https://itunes.apple.com/us/app/living-earth-desktop-weather/id539362919) menubar popover that shows realistic view of earth (with daylight terminus and weather), list of locations with times and weather. *devoid of unneeded embellishments. doesn't make setting up meetings any easier. focus on weather*
 5. [Cities: Menu world clock](https://itunes.apple.com/us/app/cities-menu-world-clock/id933624359) Menubar popover with timeline of locations and times. *timeline layout is clutter when many cities are added. shows differences in days well. *
 6. [Hour Lite](https://itunes.apple.com/us/app/hour-lite/id569089415) menubar popover with list of locations and times *unneeded visual embellishments*
@@ -45,10 +45,30 @@ Items in this list are organized like below
 9. [Menubar World Clocks](https://itunes.apple.com/us/app/menubar-world-clocks/id827630907) menubar popover with list of locations *aesthetically minimal*aesthetically
 
 ##Mockups & Designs
-1. [6th Week (Friday) - World Clock](https://dribbble.com/shots/2460483-6th-Week-Friday-World-Clock) mobile app with timeline + slider interface and list of locations and times *intuitive organization. doesn't translate well to desktop because of aspect ratio*
+1. [6th Week (Friday) - World Clock](https://dribbble.com/shots/2460483-6th-Week-Friday-World-Clock) mobile app with timeline + slider interface and list of locations and times *intuitive organization*
 
 # Initial Sketches
 
-This is a list of quick sketches and prototypes
+## Timeline
 
+Horizontal time lines show daylight and night and are offset to show differences in time. The app can be dragged horizontally to travel through time or intervals can be drawn to show how times line up.
 
+![Timeline Sketch](sketches/timeline.png "Timeline Sketch")
+
+## Map
+
+Map shows daylight terminus and locations on map. 
+
+![Map Sketch](sketches/map.png "Map Sketch")
+
+## Multiple Clock
+
+Multple clocks are shown as a list.
+
+![Mutiple Clock Sketch](sketches/multiple_clock.jpg "Multiple Clock Sketch")
+
+## Overlay Clock
+
+Multiple locations are shown radially arond a clock and can be hovered over to see local time. *not sure if this solves my problem, but the interaction is unique and interesting*
+
+![Overlay Clock Sketch](sketches/overlay_clock.png "Overlay Clock Sketch")
