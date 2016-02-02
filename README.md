@@ -1,3 +1,7 @@
+# Table of Contents
+
+[TOC]
+
 # Introduction
 This is a Chrome extension that shows multiple clocks in chrome new tabs. It is useful for remote workers and collaborating across timezones.
 
@@ -30,10 +34,10 @@ Items in this list are organized like below
 2. [World Clocks](https://chrome.google.com/webstore/detail/world-clocks/ajnbnekhpkkfaobjalnhdoofajkghidp) multiple clocks shown via icon and popover *current time, unneeded visual embellishments*
 3. [World Clocks new tab page](https://chrome.google.com/webstore/detail/world-clocks-new-tab-page/opaffdnccgelcacfhbjigocjaigebbje) current time shown as large digital clock and smaller clocks shown for other timezones *current time, multiple clocks, confusing organization*
 
-###Websites
+##Websites
 1. [world time buddy](http://www.worldtimebuddy.com/) *unique timeline style, multiple times, provision for selecting time intervals, unneeded visual embellishments*
 
-###Native Apps (Mac OS X)
+##Native Apps (Mac OS X)
 1. [The Clock - The Best World Clock](https://itunes.apple.com/us/app/the-clock-the-best-world-clock/id488764545) menubar popover with calendar and list of places and clocks. Connects to Calendar app. *by default doesn't show current location in list, unintuitive method of adding locations (1. click gear icon. 2. click "Show Add World Clock" 3. Search for and add city*
 2. [Clocks](https://itunes.apple.com/us/app/clocks/id414554506) Menubar popover with list of locations and times and a slider at the bottom for adjusting time *difficult to read*
 3. [World Clock](https://itunes.apple.com/us/app/world-clock/id858446756) [widget](https://itunes.apple.com/app/world-clock-widget/id960527401) Map (with daylight terminus), analog clocks and slider for adjusting time *By far the best because of ease use (drag for changing time) and for aesthetics. widget allows quickly comparing times with slider. Difficult to understand, prominent colors (clocks turn white in dusk and then green in day. doesn't make sense). current time is shown at center at bottom with a timeline of hours, but the times are aligned with the center and not the map. clocks don't match up with locations on map*
@@ -44,7 +48,7 @@ Items in this list are organized like below
 8. [World Time Zones - Plan Your Trip](https://itunes.apple.com/us/app/world-time-zones-plan-your/id1064366678) menubar popover with list of locations and weather information *too much information on screen with little hierarchy*
 9. [Menubar World Clocks](https://itunes.apple.com/us/app/menubar-world-clocks/id827630907) menubar popover with list of locations *aesthetically minimal*aesthetically
 
-###Mockups & Designs
+##Mockups & Designs
 1. [6th Week (Friday) - World Clock](https://dribbble.com/shots/2460483-6th-Week-Friday-World-Clock) mobile app with timeline + slider interface and list of locations and times *intuitive organization. doesn't translate well to desktop because of aspect ratio*
 
 # Initial Sketches
