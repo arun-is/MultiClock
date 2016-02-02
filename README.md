@@ -1,5 +1,5 @@
 # Introduction
-This is a Chrome extension that shows multiple clocks in chrome new tabs. It is useful for remote workers and collaborating across timezones.
+This is a Chrome extension that shows multiple clocks in Google Chrome new tab screens. It is useful for remote workers and collaborating across timezones.
 
 This README describes both the app and the design process during conception of the app. Likewise, this repository contains the app itself and documents generated during the design process.
 
@@ -16,10 +16,11 @@ Please read the LICENSE file in this repository before modifying or distributing
 2. App should be aesthetically pleasing.
 3. Use search API for finding locations (don't limit to a predetermined list)
 4. Online & offline support
+5. Platform independant
 
 # Existing Apps & Examples
 
-This list is a limited list of existing apps and examples I have found during my research. Some examples were completely omitted for severely failing the stated goals above i.e. they are extremely ugly or are unusable.
+This is a limited list of existing apps and examples I have found during my research. Some examples were completely omitted for severely failing the stated goals above i.e. they are extremely ugly or are unusable.
 
 Items in this list are organized like below
 
