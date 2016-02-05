@@ -30,6 +30,7 @@ Items in this list are organized like below
 1. [World Clocks](https://chrome.google.com/webstore/detail/world-clocks/innfmeekncjandlanpgdmmogkcimekgo) multiple clocks shown via icon and popover *current time, multiple clocks*
 2. [World Clocks](https://chrome.google.com/webstore/detail/world-clocks/ajnbnekhpkkfaobjalnhdoofajkghidp) multiple clocks shown via icon and popover *current time, unneeded visual embellishments*
 3. [World Clocks new tab page](https://chrome.google.com/webstore/detail/world-clocks-new-tab-page/opaffdnccgelcacfhbjigocjaigebbje) current time shown as large digital clock and smaller clocks shown for other timezones *current time, multiple clocks, confusing organization*
+4. [Figure it Out](https://chrome.google.com/webstore/detail/figure-it-out/lialghmkggocekkpjbnoacohodmckfke) Times shown horizontally with colors, gradients *hard to read, colors are arbitrary*
 
 ##Websites
 1. [world time buddy](http://www.worldtimebuddy.com/) *unique timeline style, multiple times, provision for selecting time intervals, unneeded visual embellishments*
